@@ -1,4 +1,4 @@
-# Tea Estate SQL & Power BI Data Analysis Project
+# SQL & Power BI Data Analysis Project 
 
 This project is a personal learning exercise where I designed a relational PostgreSQL database, built a normalized data model, and visualized tea estate operations using Power BI. The goal was to gain hands-on experience with SQL, database design, and interactive dashboarding/reporting.
 
