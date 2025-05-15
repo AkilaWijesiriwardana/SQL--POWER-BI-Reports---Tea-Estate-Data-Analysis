@@ -32,12 +32,12 @@ This end-to-end project simulates a real-world tea estate's data system. It incl
 The system models core tea estate operations, including -
 
 ###  Dimension Tables
-- `employee` – List of all staff (pluckers, workers)
-- `extra_expenses` – Types of operational costs
+- `dim_employee` – List of all staff (pluckers, workers)
+- `dim_expenses` – Types of operational costs
 
 ###  Fact Tables
-- `salary` – Employee salary payments
-- `tea_plucking` – Wages for tea plucking tasks
+- `fact_salary` – Employee salary payments
+- `fact_tea_plucking` – Wages for tea plucking tasks
 - `tea_plants` – Expenses for buying tea plants
 - `expenses` – Machinery and miscellaneous costs
 - `revenue` – Monthly income from selling tea leaves
